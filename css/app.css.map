@@ -81,9 +81,8 @@
     "../bower_components/bourbon/app/assets/stylesheets/addons/_triangle.scss",
     "../bower_components/bourbon/app/assets/stylesheets/addons/_word-wrap.scss",
     "../bower_components/bourbon/app/assets/stylesheets/_bourbon-deprecated-upcoming.scss",
-    "../sass/modules/_main.scss",
     "../sass/modules/_background.scss"
   ],
-  "mappings": "A+EAA,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,MAAO;EACnB,KAAK,EAAE,KAAM;EACb,SAAS,EAAE,MAAO;EAClB,MAAM,EAAC,eAAgB,GAC1B;;AAED,AAAA,IAAI,CAAA;EACA,UAAU,EAAyB,uBAAC,CAAC,SAAS,CAAC,KAAK,CAAC,IAAI,CAAC,MAAM,GACnE",
+  "mappings": "A+EAA,oBAAoB;AAGpB;;;EAGE;AAEF,AAAA,IAAI,CAAC;EACD,WAAW,EAAE,IAAK;EAClB,WAAW,EAAE,4BAA6B;EAC1C,SAAS,EAAE,IAAK,GAYnB;EAfD,AAII,IAJA,CAIA,UAAU,CAAC;IACP,KAAK,EAAE,GAAI;IACX,MAAM,EAAE,MAAO;IACf,WAAW,EAAE,GAAI;IACjB,MAAM,EAAE,cAAe;IACvB,UAAU,EAAE,4DAAyB,GAKxC;IAdL,AAUQ,IAVJ,CAIA,UAAU,CAMN,CAAC,CAAC;MACE,MAAM,EAAE,CAAE;MACV,OAAO,EAAE,IAAK,GACjB",
   "names": []
 }
